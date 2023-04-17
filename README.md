@@ -1,1 +1,1 @@
-# redux-and-redux-tollkit
+# redux-thunk
