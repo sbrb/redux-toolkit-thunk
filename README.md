@@ -1,1 +1,1 @@
-# redux-thunk
+# redux-toolkit-thunk
